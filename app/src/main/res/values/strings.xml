@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Volume Wake</string>
+    <string name="accessibility_service_label">Volume Wake Service</string>
+    <string name="accessibility_service_description">Enables waking the screen using volume buttons to help users with malfunctioning, stiff, or broken power buttons. It intercepts volume key presses when the screen is off to wake up your phone, and can lock your device or display the power menu without physical power button access.</string>
+    <string name="tile_label">Volume Wake</string>
+    <string name="notification_channel_name">Volume Wake Service</string>
+    <string name="notification_channel_desc">Keeps the volume wake service running in the background and provides quick power controls.</string>
+    <string name="notification_title">Volume Wake is Active</string>
+    <string name="notification_text">Press Volume keys to turn on screen</string>
+    <string name="action_lock_screen">Lock Screen</string>
+    <string name="action_power_menu">Power Menu</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="test_wake_screen">Test Screen Wake</string>
+</resources>

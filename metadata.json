@@ -1,0 +1,6 @@
+{
+  "name": "Volume Wake",
+  "description": "Turn on your screen with volume keys to replace broken power buttons, featuring smart pocket protection, floating lock button, and accessibility controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
